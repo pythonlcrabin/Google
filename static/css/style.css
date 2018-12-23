@@ -1,0 +1,77 @@
+body{
+	background-color: white;
+	
+}
+.div-1 {
+	padding-top: 30px;
+	float: right;
+	padding-right: 100px;
+}
+button{
+	padding:0px;
+	margin:0px;
+	background: none;
+	outline: none;
+	border: none;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+
+.search{
+	position: absolute;
+	top: 300px;
+	left: 350px;
+
+}
+input{
+	width: 500px;
+	height: 40px;
+	border: solid gray 1px; 
+
+}
+.icon{
+	position: relative;
+	right: 35px;
+	box-shadow: 30px;
+}
+.hr{
+	width: 100%;
+	position: absolute;
+	bottom: 20px;	
+}
+.hello{
+	background-color: gray;
+}
+img{
+	width: 270px;
+	height: 100px;
+	margin:0px;
+	padding:0px;
+	position: absolute;
+	bottom: 50px;
+	left: 25%;
+}
+.god{
+	background-color: gray;
+	border-color: gray;
+	padding:10px;
+	text-decoration: none;
+	color: black;
+}
+.tonr{
+	position: absolute;
+	bottom: 120px;
+	left: 500px;
+}
+
+
+
+
+
+
+
+
